@@ -1,0 +1,25 @@
+{
+  "name": "trello-attachments",
+  "version": "0.0.1",
+  "description": "A simple script to download all the attachments from the trello board",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwug/trello-attachments.git"
+  },
+  "keywords": [
+    "trello",
+    "attachments",
+    "download",
+    "node"
+  ],
+  "author": "zwug <zwugme@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwug/trello-attachments/issues"
+  },
+  "homepage": "https://github.com/zwug/trello-attachments#readme"
+}
